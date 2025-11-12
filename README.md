@@ -36,8 +36,8 @@
 
 ## 📫 Контакты  
 - E-mail: egornava.13@gmail.com
-- ![LinkedIn:](https://www.linkedin.com/in/egor-novokreshchenov-6a8781395/?trk=opento_sprofile_goalscard)
-- ![HH:](https://innopolis.hh.ru/resume/52d7f9c3ff0f462cb60039ed1f677257684f55)
+- LinkedIn: https://www.linkedin.com/in/egor-novokreshchenov-6a8781395/?trk=opento_sprofile_goalscard
+- HH: https://innopolis.hh.ru/resume/52d7f9c3ff0f462cb60039ed1f677257684f55
 - Telegram: @E_Novokreshchenov  
 
 ---
