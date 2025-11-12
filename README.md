@@ -2,7 +2,7 @@
 
 Я — **Новокещенов Егор**, студент университета иннополис, ML инженер & разработчик ПО.  
 Добро пожаловать на мой GitHub-профиль.
-<img src="[me.jpg](https://disk.yandex.ru/i/dZdsmnOrgMhx7Q)" alt="drawing" width="200"/>
+<img src="me.jpg" alt="drawing" width="200"/>
 
 
 ---
